@@ -1,4 +1,5 @@
-# sign-language3.0
+# sign-language
+
 This project showcases a real-time sign language recognition system leveraging deep learning and computer vision. It is designed to interpret hand gestures with high accuracy and deliver quick responses for a smooth user experience.
 
 Key Features:
