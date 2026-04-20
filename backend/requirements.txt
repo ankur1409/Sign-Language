@@ -1,3 +1,6 @@
 opencv-python
 mediapipe
 scikit-learn
+flask
+flask-cors
+tensorflow
